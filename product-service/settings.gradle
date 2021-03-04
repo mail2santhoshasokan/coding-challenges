@@ -1,0 +1,3 @@
+rootProject.name = 'com.santhosh.product-service'
+include 'webservice'
+
